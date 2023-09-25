@@ -1,0 +1,16 @@
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/config/SwaggerConfig.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/controller/TacheCommandController.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/command/service/ITacheCommandService.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/query/service/TacheQueryServiceImp.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/domain/TacheCommand.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/CqrsApplication.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/command/service/TacheCommandServiceImp.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/domain/User.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/domain/TypeT.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/command/repository/TacheCommandRepository.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/domain/TacheQuery.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/hundler/TacheEventHandlerImp.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/query/service/ITacheQueryService.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/hundler/ITacheQueryHandler.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/query/repo/TacheQueryRepository.java
+/Users/jnaina/Desktop/CQRS/CQRS/CQRS/src/main/java/com/tache/CQRS/controller/TacheQueryController.java
